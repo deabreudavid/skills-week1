@@ -6,11 +6,11 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- les verbes HTTP ✔️ POST GET PUT DELETE/ CRUD
+- les statuts HTTP ✔️ ce sont les reponses permettant de vérifier la réalisation des requetes HTTP
+- les endpoints ❌✔️ Pas assez à l'aise avec pour une explication
+- CORS  ✔️ Prend en charge les requetes ainsi que le transfert des données
+- la nomenclature recommandée pour les routes ✔️
 
 ## 💻 J'utilise
 

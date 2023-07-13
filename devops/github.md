@@ -6,11 +6,11 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'initialisation d'un projet ❌ / ✔️
-- travailler avec des branches ❌ / ✔️
-- faire une PR ❌ / ✔️
-- utiliser git rebase pour faire des commits propres ❌ / ✔️
-- utiliser les gitHub actions ❌ / ✔️
+- l'initialisation d'un projet ✔️
+- travailler avec des branches ✔️
+- faire une PR ✔️
+- utiliser git rebase pour faire des commits propres ✔️
+- utiliser les gitHub actions ✔️
 
 ## 💻 J'utilise
 
@@ -41,9 +41,9 @@ Description :
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ✔️
 
-Description:
+Description: Utilisation plutot facile de github et de ses fonctionnalités. Mise en application au quotidien tant coté professionnel que coté cours/ projets. A l'aise avec Git/ Github
 
 Plan d'action : (à valider par le formateur)
 

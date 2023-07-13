@@ -7,7 +7,7 @@
 ## 🎓 J'ai compris et je peux expliquer
 
 - Le rôle de l'OWASP ❌ / ✔️
-- Les injections SQL ❌ / ✔️
+- Les injections SQL  ✔️ c'est une faille de sécurité qui grace a une requete sql dans la base de données permet a un pirate d'acceder/ supprimer/ copier une base de données ou pirater 
 - XSS ❌ / ✔️
 - CRSF ❌ / ✔️
 

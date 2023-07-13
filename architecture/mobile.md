@@ -7,9 +7,9 @@
 ## 🎓 J'ai compris et je peux expliquer
 
 - les différences entre les webapps, les applications hybrides et natives ❌ / ✔️
-- le fonctionnement d'une app React Native, ce qui sera en réalité produit et installé sur le téléphone de mes utilisateur·rices, comment le JS arrive à communiquer avec le natif ❌ / ✔️
+- le fonctionnement d'une app React Native, ce qui sera en réalité produit et installé sur le téléphone de mes utilisateur·rices, comment le JS arrive à communiquer avec le natif  ✔️
 - quelles sont les différentes technologies (frameworks) existantes pour développer des apps mobiles ❌ / ✔️
-- quels sont les principaux points d'attention entre le développement d'une app mobile ou desktop ❌ / ✔️
+- quels sont les principaux points d'attention entre le développement d'une app mobile ou desktop  ✔️
 
 ## 💻 J'utilise
 
